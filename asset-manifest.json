@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/casecraft/static/css/main.f855e6bc.css",
+    "main.js": "/casecraft/static/js/main.334de4e8.js",
+    "static/js/488.0854965a.chunk.js": "/casecraft/static/js/488.0854965a.chunk.js",
+    "index.html": "/casecraft/index.html",
+    "main.f855e6bc.css.map": "/casecraft/static/css/main.f855e6bc.css.map",
+    "main.334de4e8.js.map": "/casecraft/static/js/main.334de4e8.js.map",
+    "488.0854965a.chunk.js.map": "/casecraft/static/js/488.0854965a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.334de4e8.js"
+  ]
+}
